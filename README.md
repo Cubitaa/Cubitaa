@@ -1,10 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055FF&height=120&section=header"/>
+
 ## Hey, Cubita is here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Cubitaa" alt="Cubitaa" /> 
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00F7FF&width=500&lines=Software+Developer+Student+(DAM);Independent+Video+Game+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&width=600&lines=Software+Developer+Student+(DAM);Roblox+Game+Developer;Android+Developer;Always+learning+new+things" />
 
 ---
 
@@ -18,16 +20,18 @@
 ## 👨‍💻 About Me
 
 🎓 Currently studying **Multiplatform Application Development (DAM)**  
-📱 Focused on **Android development with Java & Kotlin**  
 🚀 Passionate about building clean, efficient and well-structured apps  
 🧠 I learn mainly through **hands-on projects**  
+🎮 I LOVE videogames  
 
 ---
 
 ## 🎮 Current Project
 
 🧑‍💼 I'm the **Leader** of a Roblox development team building a game inspired by ***The Backrooms***.
-> Please don’t be misled when you hear “Roblox.” In reality, the platform is a very capable game engine to start with, where high-quality experiences can be created.
+
+> Please don’t be misled when you hear “Roblox.” In reality, the platform is a very capable game engine where high-quality experiences can be created.
+
 <br>
 
 🌌 This project is a **first-person**, **RPG-survival**, **non-linear** experience set in the Backrooms universe, staying fully faithful to the **Wikidot** and **Fandom** lore.
@@ -53,7 +57,8 @@
 
 <br>
 
-🖇️ <b>If you want to know more, join the discord server or follow my Roblox devforum posts below:</b>
+🖇️ <b>If you want to know more, join the Discord server or follow my Roblox DevForum posts below:</b>
+
 <div align="left">
 
 [![Roblox](https://img.shields.io/badge/Roblox-Group-red?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/communities/7118742/MultiFandom-Studios#!/about)
@@ -61,6 +66,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wnwWBgFVM3)
 
 [![DevForum](https://img.shields.io/badge/DevForum-Development%20Logs-00BFFF?style=for-the-badge&logo=robloxstudio&logoColor=white)](https://devforum.roblox.com/t/a-different-kind-of-backroom-game-project-frontrooms/4366543)
+
 </div>
 
 ---
@@ -99,13 +105,40 @@
 
 ---
 
+## 🎯 Goals
+
+> #### 🟢 Done:
+> 
+> 🎮 Start Roblox game development project
+> 
+> 🌍 Grow my development team
+> 
+> 🎨 Improve procedural generation systems
+
+> #### 🟡 On going:
+>
+> 🛜 Promote my Roblox game with RRSS
+>
+> 🚀 Release first playable version of my Roblox game
+> 
+> 🧠 Learn Java & Kotlin for Android development
+
+> #### 🔴 Not done yet:
+>
+> 📱 Publish my first Android app
+> 
+> 🧑🏻‍💻Start working in this field
+
+---
+
 ## 🎨 In My Free Time
 
-✨ Drawing and exploring creative ideas  
-🌌 Interested in space and astronomy  
-🎮 Building games and experimenting with Roblox Studio  
-🧩 Learning new technologies and improving my projects  
+🌌 Interested in space and astronomy
 
-<!--
-https://github.com/Ileriayo/markdown-badges/blob/master/README.md -- markdown
--->
+🎮 Building games and experimenting with Roblox Studio
+
+👾 Playing videogames
+
+🧩 Learning new technologies and improving my projects
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,100:00F7FF&height=100&section=footer"/>
