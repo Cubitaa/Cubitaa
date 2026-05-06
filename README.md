@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Cubitaa" alt="Cubitaa" /> 
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&width=600&lines=Software+Developer+Student+(DAM);Roblox+Game+Developer;Android+Developer;Always+learning+new+things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&width=600&lines=Software+Developer+Student+(DAM);Independent+Game+Developer" />
 
 ---
 
